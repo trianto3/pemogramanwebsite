@@ -2,6 +2,8 @@ Mempelajari:
 - HTML
 - CSS
 - JS
+- Laravel
+- Python
 - PHP
 - Git dan Github
 - Python
