@@ -2,6 +2,9 @@ Mempelajari:
 - HTML
 - CSS
 - JS
+  * ES6
+  * Vue
+  * Angular
 - Laravel
 - Python
 - PHP
