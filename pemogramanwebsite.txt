@@ -2,6 +2,9 @@ Mempelajari:
 - HTML
 - CSS
 - JS
+- PHP
+- Git dan Github
+- Python
 
 Hal yang sudah dipelajari:
 - HTML dasar
