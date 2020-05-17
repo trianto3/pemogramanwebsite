@@ -2,3 +2,7 @@ Mempelajari:
 - HTML
 - CSS
 - JS
+
+Hal yang sudah dipelajari:
+- HTML dasar
+- CSS dasar
