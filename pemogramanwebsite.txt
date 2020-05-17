@@ -1,0 +1,4 @@
+Mempelajari:
+- HTML
+- CSS
+- JS
