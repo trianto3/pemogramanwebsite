@@ -1,0 +1,3 @@
+Resolusi untuk bulan ini:
+- Selesai dalam mempelajari CSS layout
+- Selesai dalam mempelajari Git dan Github dasar
